@@ -31,5 +31,4 @@ def explorer_corriger_nettoyer_csv(chemin_fichier_csv):
 
     print(f"\nLes données ont été corrigées et nettoyées. Nouveau fichier CSV enregistré à : {nouveau_chemin_fichier_csv}")
 
-# Remplacez 'votre_fichier.csv' par le chemin de votre fichier CSV
-explorer_corriger_nettoyer_csv('csv/Names.csv')
+explorer_corriger_nettoyer_csv('csv/Agents.csv')
